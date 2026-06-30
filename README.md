@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MOkolla
 - 👀 I’m interested in cybersecurity, data science and software developement
-- 💞️ I’m looking to collaborate on cybersecurity and data science projects
+- 💞️ I’m looking to collaborate on cybersecurity, software engineering and data science projects
 - 📫 How to reach me maryjenipher3@gmail.com
 
 <!---
